@@ -2,8 +2,7 @@
 This Power BI dashboard presents an analytical view of pizza sales, enabling stakeholders to understand key performance metrics, trends, and customer behavior across various categories and time frames.
 
 ## 📊 Overview
-![pizza Analysis 10_04_2025 16_22_14](https://github.com/user-attachments/assets/99493959-f797-4f12-a427-3c3e7956b7af)
-
+<img width="960" alt="pizza Analysis 10_04_2025 16_22_14" src="https://github.com/user-attachments/assets/07cfc99a-c9bc-4aac-946c-973bebc12f0b" />
 This Power BI dashboard presents an analytical view of pizza sales, enabling stakeholders to understand key performance metrics, trends, and customer behavior across various categories and time frames.
 
 ## 🧩 Key Features
